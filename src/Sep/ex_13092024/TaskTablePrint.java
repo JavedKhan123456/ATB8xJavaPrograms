@@ -1,6 +1,6 @@
 package Sep.ex_13092024;
 
-public class Lab020 {
+public class TaskTablePrint {
     public static void main(String[] args) {
         int num=10;
          //Program to print table of 10 using printf
